@@ -6,34 +6,41 @@
 BarbeariaPI é um aplicativo móvel desenvolvido em Flutter para gerenciamento de barbearias. A plataforma permite que administradores gerenciem seus estabelecimentos e colaboradores, enquanto os clientes podem agendar seus serviços facilmente.
 
 Funcionalidades Principais
-Autenticação de usuários : Sistema de login e cadastro
-Dois perfis de usuário : Administrador e Colaborador
-Gestão de barbearias : Cadastro de horários e dias de funcionamento
-Gerenciamento de colaboradores : Adicionar funcionários com horários específicos
-Agendamento de clientes : Interface intuitiva para marcação de horários
-Visualização de agenda : Calendário para visualizar todos os agendamentos
+ .Autenticação de usuários : Sistema de login e cadastro
+ .Dois perfis de usuário : Administrador e Colaborador
+ .Gestão de barbearias : Cadastro de horários e dias de funcionamento
+ .Gerenciamento de colaboradores : Adicionar funcionários com horários específicos
+ .Agendamento de clientes : Interface intuitiva para marcação de horários
+ .Visualização de agenda : Calendário para visualizar todos os agendamentos
+
 🛠️ Tecnologias Utilizadas
-Flutter : Framework UI para desenvolvimento multiplataforma
-Riverpod : Gerenciamento de estado
-Dio : Cliente HTTP para chamadas de API
-Json Rest Server : Backend simulado para desenvolvimento
-AsyncState : Gerenciamento de estados assíncronos
-Preferências Compartilhadas : Armazenamento local de dados
+---
+.Flutter : Framework UI para desenvolvimento multiplataforma
+.Riverpod : Gerenciamento de estado
+.Dio : Cliente HTTP para chamadas de API
+.Json Rest Server : Backend simulado para desenvolvimento
+.AsyncState : Gerenciamento de estados assíncronos
+.Preferências Compartilhadas : Armazenamento local de dados
+
 📐 Arquitetura
+---
 O projeto utiliza uma arquitetura baseada em:
 
-Recursos : Organização por funcionalidades
-Padrão de Repositório : Para acessar dados
-Camada de Serviço : Para lógica de negócios
-View-Model : Para gerenciamento de estado da UI
-Qualquer Padrão : Para tratamento de erros
+ .Recursos : Organização por funcionalidades
+ .Padrão de Repositório : Para acessar dados
+ .Camada de Serviço : Para lógica de negócios
+ .View-Model : Para gerenciamento de estado da UI
+ .Qualquer Padrão : Para tratamento de erros
+
 🚀 Como Executar o Projeto
-Pré-requisitos
-Flutter SDK (versão ≥ 3.7.2)
-Dart SDK (versão compatível com Flutter)
-Android Studio / VSCode
-Emulador ou dispositivo físico Android/iOS
-Git
+---
+ .Pré-requisitos
+ .Flutter SDK (versão ≥ 3.7.2)
+ .Dart SDK (versão compatível com Flutter)
+ .Android Studio / VSCode
+ .Emulador ou dispositivo físico Android/iOS
+ .Git
+
 Instalação
 Clone ou repositório:
 
