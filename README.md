@@ -2,6 +2,7 @@
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fd4d052d-e0fb-483e-994f-63b72dca6f76" />
 
 📋 Sobre o Projeto
+---
 BarbeariaPI é um aplicativo móvel desenvolvido em Flutter para gerenciamento de barbearias. A plataforma permite que administradores gerenciem seus estabelecimentos e colaboradores, enquanto os clientes podem agendar seus serviços facilmente.
 
 Funcionalidades Principais
