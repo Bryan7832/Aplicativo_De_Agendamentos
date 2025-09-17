@@ -65,7 +65,7 @@ O projeto utiliza uma arquitetura baseada em:
 1.**Clone ou repositório:**
 
 ```bash
-git clone https://github.com/Vitor1s/barbeariaPI.git
+git clone https://github.com/Bryan7832/Aplicativo_De_Agendamentos.git
 cd barbeariaPI
 ```
 
