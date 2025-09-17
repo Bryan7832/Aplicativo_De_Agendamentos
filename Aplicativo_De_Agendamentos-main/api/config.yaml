@@ -1,0 +1,19 @@
+name: Json Rest Server
+port: 8080
+host: 0.0.0.0 # Este valor está correto - escuta em todas as interfaces
+database: database.json
+
+auth:
+  jwtSecret: cwsMXDtuP447WZQ63nM4dWZ3RppyMl
+  jwtExpire: 3600
+  unauthorizedStatusCode: 403
+  urlSkip:
+    - /images/:
+        method: get
+    - /users:
+        method: post
+upload:
+  enabled: true
+  file_ext: jpg, jpeg, png
+  file_size: 10 # em MB
+  field_name: avatar # nome do campo esperado
